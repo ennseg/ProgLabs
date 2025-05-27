@@ -1,0 +1,5 @@
+show
+sum_of_annual_turnover
+execute_script scriptL5_1.txt
+help
+exit

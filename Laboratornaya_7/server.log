@@ -1,0 +1,52 @@
+апр. 08, 2025 11:57:05 AM server.Server start
+INFO: Запуск сервера...
+апр. 08, 2025 11:57:05 AM server.Server start
+INFO: Сервер запущен на порту 2720
+апр. 08, 2025 11:57:16 AM server.Server start
+INFO: Клиент подключён: /127.0.0.1
+апр. 08, 2025 11:57:21 AM server.Server handleClient
+INFO: Получена команда: show, аргумент: 
+апр. 08, 2025 11:57:21 AM server.Server handleClient
+FINE: Отправлено 610 байт клиенту.
+апр. 08, 2025 11:57:29 AM server.Server handleClient
+INFO: Получена команда: asd, аргумент: 
+апр. 08, 2025 11:57:29 AM server.Server handleClient
+FINE: Отправлено 130 байт клиенту.
+апр. 08, 2025 11:57:34 AM server.Server handleClient
+INFO: Получена команда: exit, аргумент: 
+апр. 08, 2025 11:57:34 AM server.Server handleClient
+FINE: Отправлено 125 байт клиенту.
+апр. 08, 2025 11:57:34 AM server.Server handleClient
+INFO: Клиент запросил завершение.
+апр. 08, 2025 11:57:34 AM server.Server start
+INFO: Клиент подключён: /127.0.0.1
+апр. 08, 2025 11:57:34 AM server.Server handleClient
+INFO: Клиент отключился.
+апр. 08, 2025 11:57:51 AM server.Server lambda$start$0
+INFO: Сервер завершает работу, выполняется автосохранение...
+апр. 29, 2025 4:29:07 AM server.Server start
+INFO: Запуск сервера...
+апр. 29, 2025 4:29:07 AM server.Server start
+SEVERE: Ошибка запуска сервера: Address already in use: bind
+апр. 29, 2025 4:29:07 AM server.Server lambda$start$0
+INFO: Сервер завершает работу, выполняется автосохранение...
+апр. 29, 2025 4:30:23 AM server.Server start
+INFO: Запуск сервера...
+апр. 29, 2025 4:30:23 AM server.Server start
+SEVERE: Ошибка запуска сервера: Address already in use: bind
+апр. 29, 2025 4:30:23 AM server.Server lambda$start$0
+INFO: Сервер завершает работу, выполняется автосохранение...
+апр. 29, 2025 4:39:43 AM server.Server start
+INFO: Запуск сервера...
+апр. 29, 2025 4:39:43 AM server.Server start
+INFO: Сервер запущен на порту 2222
+апр. 29, 2025 4:59:11 AM server.Server start
+INFO: Запуск сервера...
+апр. 29, 2025 4:59:11 AM server.Server start
+INFO: Сервер запущен на порту 2222
+апр. 29, 2025 6:45:33 AM server.Server start
+INFO: Запуск сервера...
+апр. 29, 2025 6:45:33 AM server.Server start
+INFO: Сервер запущен на порту 2720
+апр. 29, 2025 6:45:55 AM server.Server lambda$start$0
+INFO: Сервер завершает работу, выполняется автосохранение...
